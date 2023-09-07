@@ -1,4 +1,4 @@
-# README.md
+# OSD for Keyboard Switch
 
 ## Keyboard Layout Monitor
 
